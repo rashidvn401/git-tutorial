@@ -1,1 +1,2 @@
 it is a fix file which will be used to fix the bug.
+will add new line to fix the bug.
