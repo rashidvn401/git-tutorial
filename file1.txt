@@ -3,3 +3,5 @@ adding more content to file one.
 
 2024 is coming.
 add one more line to test the staging area.
+
+add one more line to check the stash feature.
