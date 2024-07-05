@@ -1,2 +1,4 @@
 this is my file2 for git course.
 adding more content to file two.
+
+add footer to home page.
