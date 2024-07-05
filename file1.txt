@@ -2,3 +2,4 @@ this is my file1 for git course.
 adding more content to file one.
 
 2024 is coming.
+add one more line to test the staging area.
