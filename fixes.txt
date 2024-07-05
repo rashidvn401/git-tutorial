@@ -3,3 +3,4 @@ will add new line to fix the bug.
 
 this is the third bub-fix.
 this is the fourth bug-fix.
+this is the fifth bug-fix for footer.
