@@ -5,3 +5,4 @@ adding more content to file one.
 add one more line to test the staging area.
 
 add one more line to check the stash feature.
+this is to test the pink mode fixes
